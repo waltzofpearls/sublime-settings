@@ -1,4 +1,5 @@
 {
+    "always_show_minimap_viewport": true,
     "bold_folder_labels": true,
     "color_scheme": "Packages/User/SublimeLinter/Phix Dark (SL).tmTheme",
     "default_line_ending": "unix",
@@ -9,10 +10,13 @@
     [
         "Vintage"
     ],
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
     "rulers":
     [
         80
     ],
+    "show_encoding": true,
     "tab_size": 4,
     "theme": "Soda Dark 3.sublime-theme",
     "translate_tabs_to_spaces": true,
