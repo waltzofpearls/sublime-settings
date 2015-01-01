@@ -6,7 +6,7 @@
 sudo apt-get install golang git mercurial
 go get github.com/rakyll/drive/cmd/drive
 
-make $HOME/golang
+mkdir $HOME/golang
 
 cat <<'BASH_PROFILE' >> $HOME/.profile
 
